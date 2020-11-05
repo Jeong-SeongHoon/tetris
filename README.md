@@ -1,2 +1,3 @@
 # tetris
 
+![screenshot](./screenshot.png)
